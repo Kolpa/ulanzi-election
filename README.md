@@ -2,6 +2,8 @@
 
 This project is designed to display election data on a Ulanzi TC001 Smart Pixel Clock running awtrix3. It fetches data from the DPA electionsdata API and displays it on the device.
 
+![awtrix](https://github.com/user-attachments/assets/bdab140b-5f00-40f1-8355-b666dcefc6e8)
+
 ## Prerequisites
 
 - Python 3.x
