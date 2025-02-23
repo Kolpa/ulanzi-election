@@ -1,0 +1,12 @@
+[project]
+name = "ulanzi-election"
+version = "0.1.0"
+description = "Ulanzi pixel clock election chart"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "paho-mqtt>=2.1.0",
+    "python-dateutil>=2.9.0.post0",
+    "python-dotenv>=1.0.1",
+    "requests>=2.32.3",
+]
